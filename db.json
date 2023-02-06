@@ -1,0 +1,54 @@
+{
+  "posts": [
+    {
+      "name": "Using computed methods:123321",
+      "url": "https://learnvue.co/tutorials/v-model-guide",
+      "dishPhoto": "https://www.shutterstock.com/image-vector/modern-professional-logo-design-iron-600w-2113114451.jpg",
+      "district_name_tc": "12342414",
+      "info": "Using v-model multiple times for one component\nSince we can name our v-model, we can use multiple of them on a single component.\nWe have to be sure to name each one uniquely so the props/events are unique!\nLet’s add a second v-model to our input called lastName.dwadawdawdreierieifijfdjifdsindfijjfidjisfijdfijsdfdadwadwd\ndwadwadwadwadwadwadwadwadwadwdwadwadawdawdwad\n由朝早至凌晨  香港街頭泰有風味\n中環蘭桂芳同銅鑼灣都有分店嘅「Grill ขนทอง」，招牌料理有杯裝冬陰功湯、青咖喱魚蛋、高溫燒爐串燒、泰式酸辣鳳爪等，平時香港嘅泰國舖真係好少見！估唔到dwadwad除咗泰式串燒方便，杯裝小食都泰方便呀～而家營業由朝早11:00至凌晨5:30，幾時想食都得！dwadwadad",
+      "id": 7
+    },
+    {
+      "name": "How To Install Node.js on CentOS 8",
+      "url": "https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-centos-8",
+      "dishPhoto": "https://www.digitalocean.com/_next/static/media/intro-to-cloud.d49bc5f7.jpeg",
+      "district_name_tc": "digitocean",
+      "info": "Node.js is a JavaScript runtime for server-side programming. It allows developers to create scalable backend functionality using JavaScript, a language many are already familiar with from browser-based web development.dwadawdawdawd",
+      "id": 8
+    },
+    {
+      "name": "xios+json-server][404]常用",
+      "url": "https://fatree.medium.com/%E7%AD%86%E8%A8%98-vue-axios-json-server-404-%E5%B8%B8%E7%94%A8%E6%96%B9%E6%B3%95%E6%92%B0%E5%AF%AB-9f052ca11c56",
+      "dishPhoto": "https://miro.medium.com/fit/c/224/224/1*2hvcAcWyqP23lFv97iyjPQ.png",
+      "district_name_tc": "錯誤訊息",
+      "info": "main.js，一樣，複製貼上即可 import fontawesome from '@fortawesome/fontawesome' import {FontAwesomeIcon} from '@fortawesome/vue-fontawesome' import solid from '@fortawesome/fontawesome-free-solid' import regular from '@fortawesome/fontawesome-free-regular' import brands from '@fortawesome/fontawesome-free-brands' fontawesome.library.add(solid) fontawesome.library.add(regular) fontawesome.library.add(brands) Vue.component('font-awesome-icon', FontAwesomeIcon)\n如題，我這邊是使用yarn搭配vue-cli 4.1版本",
+      "id": 9
+    },
+    {
+      "name": " Using computed methods:",
+      "url": "https://www.shutterstock.com/zh/image-vector/tools-design-over-yellow-background-vector-223335817",
+      "dishPhoto": "https://www.shutterstock.com/image-vector/tools-design-over-yellow-background-600w-223335817.jpg",
+      "district_name_tc": "HI！記得我們在第一篇的時候有提過如何將Vue.js的資料綁定到View上面嗎？如果忘記的話可以看一下以下最簡單的範例： HTML",
+      "info": "Using v-model multiple times for one component Since we can name our v-model, we can use multiple of them on a single component. We have to be sure to name each one uniquely so the props/events are unique! Let’s add a second v-model to our input called lastName.",
+      "id": 10
+    },
+    {
+      "name": "路上查到原因多為str為文字",
+      "url": "https://www.google.com/",
+      "dishPhoto": "https://www.shutterstock.com/image-vector/modern-professional-logo-design-iron-600w-2113114451.jpg",
+      "district_name_tc": "錯誤訊息",
+      "info": "蘭桂芳同銅鑼灣都有分店嘅「Grill ขนทอง」，招牌料理有杯裝冬陰功湯、青咖喱魚蛋、高溫燒爐串燒、泰式酸辣鳳爪等，平時香港嘅泰國舖真係好少見！估唔到除咗泰式串燒方便，杯裝小食都泰方便呀～而家營業由朝早11:00至凌晨5:30，幾時想食都得！\n12342414",
+      "id": 11
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
